@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001522263076",
+    "project_id": "bau-recycle-8cf42",
+    "storage_bucket": "bau-recycle-8cf42.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001522263076:android:2318f9b706ac02db1094b1",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcnAgWxhE2u_yi00Ps4lOkELBHlfaHptU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
